@@ -4,8 +4,6 @@
 **Nama** : Salsabila Nailafahdi  
 **Link Repositori GitHub** : https://github.com/naiaero/latihan-gui-f1d02410135  
 
-Terima kasih
-
 ---
 
 ## Deskripsi Program
